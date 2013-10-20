@@ -1,0 +1,40 @@
+{
+  "name": "Typing Pairs",
+  "scope": "source.plist - string - comment - constant.other.key",
+  "settings": {
+    "smartTypingPairs": [
+      [
+        "=",
+        ";"
+      ],
+      [
+        "\"",
+        "\""
+      ],
+      [
+        "(",
+        ")"
+      ],
+      [
+        "{",
+        "}"
+      ],
+      [
+        "[",
+        "]"
+      ],
+      [
+        "“",
+        "”"
+      ],
+      [
+        "'",
+        "'"
+      ],
+      [
+        "`",
+        "`"
+      ]
+    ]
+  }
+}

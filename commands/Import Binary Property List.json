@@ -1,0 +1,14 @@
+{
+  "beforeRunningCommand": "nop",
+  "command": "#!/bin/bash\necho '// !!! BINARY PROPERTY LIST WARNING !!!'\necho '//'\necho '// The pretty-printed property list below has been created'\necho '// from a binary version on disk and should not be saved as'\necho '// the ASCII format is a subset of the binary representation!'\necho '//'\n\"${TM_BUNDLE_SUPPORT}/bin/pretty_plist\"\n",
+  "contentMatch": "\\Abplist00",
+  "hideFromUser": true,
+  "input": "document",
+  "inputFormat": "text",
+  "name": "Import Binary Property List",
+  "outputCaret": "interpolateByLine",
+  "outputFormat": "text",
+  "outputLocation": "replaceDocument",
+  "semanticClass": "callback.document.binary-import",
+  "version": 2
+}

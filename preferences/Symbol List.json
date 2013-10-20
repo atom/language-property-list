@@ -1,0 +1,7 @@
+{
+  "name": "Symbol List",
+  "scope": "constant.other.name.xml.plist",
+  "settings": {
+    "showInSymbolList": "1"
+  }
+}

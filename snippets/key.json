@@ -1,0 +1,6 @@
+{
+  "content": "<key>$1</key>",
+  "name": "key",
+  "scope": "text.xml.plist",
+  "tabTrigger": "key"
+}

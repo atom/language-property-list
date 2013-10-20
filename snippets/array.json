@@ -1,0 +1,6 @@
+{
+  "content": "<array>\n\t$0\n</array>",
+  "name": "array",
+  "scope": "text.xml.plist",
+  "tabTrigger": "array"
+}

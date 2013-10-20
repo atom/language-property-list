@@ -1,0 +1,13 @@
+{
+  "beforeRunningCommand": "nop",
+  "command": "#!/usr/bin/env bash\n\nTEMP_FILE=`mktemp /tmp/TextMate_plist.XXXXXX`\nif [[ -n $TEMP_FILE ]]; then\n\tcat > \"$TEMP_FILE\"\n\tplutil -lint \"$TEMP_FILE\"|perl -pe \"s|\\\\Q$TEMP_FILE\\\\E:\\s*||\"\n\trm \"$TEMP_FILE\"\nelse\n\techo \"Error: Temporary file could not be created\"\nfi",
+  "input": "document",
+  "inputFormat": "text",
+  "keyEquivalent": "^V",
+  "name": "Validate Syntax",
+  "outputCaret": "afterOutput",
+  "outputFormat": "text",
+  "outputLocation": "toolTip",
+  "scope": "source.plist, text.xml.plist",
+  "version": 2
+}

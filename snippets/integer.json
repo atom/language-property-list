@@ -1,0 +1,6 @@
+{
+  "content": "<integer>$1</integer>",
+  "name": "integer",
+  "scope": "text.xml.plist",
+  "tabTrigger": "int"
+}
