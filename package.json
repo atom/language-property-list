@@ -1,5 +1,5 @@
 {
-  "name": "property-list-tmbundle",
+  "name": "language-property-list",
   "version": "0.1.0",
   "description": "Property List support in Atom",
   "engines": {
