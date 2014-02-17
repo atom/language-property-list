@@ -1,5 +1,5 @@
 {
-  "source.plist": {
+  ".source.plist": {
     "editor": {
       "increaseIndentPattern": "^\\s*(([a-zA-Z_-]+|\"[^\"]+\"|'[^']+')\\s+=\\s+)?[{(](?!.*[)}][;,]?\\s*$)",
       "decreaseIndentPattern": "^\\s*(\\}|\\))"
