@@ -1,8 +1,0 @@
-{
-  "name": "Indentation Rules",
-  "scope": "source.plist",
-  "settings": {
-    "decreaseIndentPattern": "^\\s*(\\}|\\))",
-    "increaseIndentPattern": "^\\s*(([a-zA-Z_-]+|\"[^\"]+\"|'[^']+')\\s+=\\s+)?[{(](?!.*[)}][;,]?\\s*$)"
-  }
-}
