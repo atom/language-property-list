@@ -1,7 +1,0 @@
-{
-  ".source.plist": {
-    "editor": {
-      "foldEndPattern": "^\\s*(\\}|\\))"
-    }
-  }
-}

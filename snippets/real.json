@@ -1,6 +1,0 @@
-{
-  "content": "<real>$1</real>",
-  "name": "real",
-  "scope": "text.xml.plist",
-  "tabTrigger": "real"
-}

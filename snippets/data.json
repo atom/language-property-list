@@ -1,6 +1,0 @@
-{
-  "content": "<data>\n\t$1\n</data>",
-  "name": "data",
-  "scope": "text.xml.plist",
-  "tabTrigger": "data"
-}

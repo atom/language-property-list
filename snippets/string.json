@@ -1,6 +1,0 @@
-{
-  "content": "<string>$1</string>",
-  "name": "string",
-  "scope": "text.xml.plist",
-  "tabTrigger": "str"
-}
