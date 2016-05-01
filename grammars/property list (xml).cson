@@ -1,4 +1,10 @@
-'fileTypes': []
+'fileTypes': [
+  'plist'
+  'dict'
+  'scriptSuite'
+  'scriptTerminology'
+  'savedSearch'
+]
 'firstLineMatch': '\\s*<\\?xml .*\\n\\s*<!DOCTYPE\\s*(?i:plist)\\s'
 'name': 'Property List (XML)'
 'patterns': [
