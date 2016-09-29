@@ -3,7 +3,7 @@
 Adds syntax highlighting and snippets to [plist](http://en.wikipedia.org/wiki/Property_list)
 files in Atom.
 
-Originally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)
+Originally [converted](http://flight-manual.atom.io/hacking-atom/sections/converting-from-textmate)
 from the [Property List TextMate bundle](https://github.com/textmate/property-list.tmbundle).
 
 Contributions are greatly appreciated. Please fork this repository and open a
