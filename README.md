@@ -1,6 +1,6 @@
 # Property list support in Atom
 
-Adds syntax highlighting and snippets to [plist](http://en.wikipedia.org/wiki/Property_list)
+Adds syntax highlighting and snippets to [plist](https://en.wikipedia.org/wiki/Property_list)
 files in Atom.
 
 Originally [converted](http://flight-manual.atom.io/hacking-atom/sections/converting-from-textmate)
