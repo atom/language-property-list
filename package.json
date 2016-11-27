@@ -1,6 +1,6 @@
 {
   "name": "language-property-list",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "description": "Property List support in Atom",
   "engines": {
     "atom": "*",
